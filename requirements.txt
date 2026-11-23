@@ -1,1 +1,7 @@
+curl_cffi
+uvicorn
+coincurve
+beautifulsoup4
+pydantic
+colorama
 python-telegram-bot>=20.0
